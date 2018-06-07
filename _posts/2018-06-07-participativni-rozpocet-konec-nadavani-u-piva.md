@@ -13,11 +13,11 @@ tags: ' '
 ---
 Participativní rozpočet je nástroj, pomocí kterého se mohou občané v obcích sami zapojit do rozdělování finančních prostředků z veřejných rozpočtů. Sami mohou navrhnout jaké projekty by měly být podpořeny a sami občané pak demokraticky, pomocí hlasování zvolí projekty, které jsou pro ně nejpřínosnější.
 
-Co mají společného New York, Bratislava, Varšava,  Brno, Ostrava, Horní Počernice, Krnov, Chomutov a Říčany? Ano, je to zavedené participativní rozpočtování. A další a další města a obce se přidávají. Lavina tohoto fenoménu se již spustila a nejde zastavit.
+Co mají společného New York, Bratislava, Varšava, Brno, Ostrava, Horní Počernice, Krnov, Chomutov a Říčany? Ano, je to zavedené participativní rozpočtování. A další a další města a obce se přidávají. Lavina tohoto fenoménu se již spustila a nejde zastavit.
 
 ## Jak to vlastně celé funguje?
 
-Radnice města vyčlení část rozpočtu města na projekty, o kterých budou přímo rozhodovat sami občané. Například v Brně to bylo 20 miliónů korun. Tedy žádná malá úlitba “otravným”, aktivním občanům. Ale skutečně zásadní zapojení občanů do rozhodování. 
+Radnice města vyčlení část rozpočtu města na projekty, o kterých budou přímo rozhodovat sami občané. Například v Brně to bylo 20 milionů korun. Tedy žádná malá úlitba “otravným”, aktivním občanům. Ale skutečně zásadní zapojení občanů do rozhodování. 
 
 ## Celý proces výběru projektů, které si občané zvolí, probíhá v 5 fázích:
 
