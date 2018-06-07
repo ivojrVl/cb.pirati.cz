@@ -15,10 +15,6 @@ tags: ' '
 
 ![null](/static/media/sanep_-_volebni_preference.jpg)
 
-Velmi vypovídající o trendech voličských preferencích, je také tento druhý graf:
-
-![null](/static/media/sanep_-_volebni_preference_2.jpg)
-
 **V parlamentních volbách v roce 2017 se Piráti dostali poprvé do Parlamentu a to hned jako 3. nejsilnější strana, se ziskem 10,79%.**
 
 _Výsledky šetření společnosti SANEP představují aktuální teoretický volební zisk politických stran a hnutí zastoupených v Poslanecké sněmovně a dále stran a hnutí, které v šetření společnosti SANEP dosáhly nebo překročily tříprocentní hranici._ 
