@@ -1,0 +1,24 @@
+---
+title: Místní referenda
+layout: default
+section: blog
+published: true
+style: portrets
+description: 'Více informací k místním referendům'
+keywords: volby, komunální, program, referendum, České Budějovice
+---
+
+{% include top_menu.html %}
+
+<div class="row">
+<section id="akce" class="mt-3">
+
+<h1>Místní referenda</h3>
+<br>
+<p><br><strong>Účelem místního referenda je umožnit občanům přímou správu veřejných věcí, které náležejí do samostatné působnosti obce. Místní referendum má svou ústavní oporu v nezrušitelném a nezadatelném právu občanů podílet se na správě veřejných věcí nejen svobodnou volbou svých zástupců, ale také přímo. V Českých Budějovicích se čtvrt století budování demokratické společnosti ani jedno referendum nekonalo! Chceme, aby město k zásadním rozhodnutím o financích nebo budoucnosti města, které rozdělují občany, vyhlašovalo referendum.</p>
+
+    <ul>
+        <li>Město bude vycházet vstříc peticím za konání referenda. Striktně odmítáme obstrukce, se kterými mají lidé v mnoha městech zkušenost, a jejichž cílem často je posunout referendum mimo termín voleb, aby občané nepřišli v dostatečném množství pro závaznost (viz například nedávné referendum v Třeboni o zimním stadionu).</li>
+        <li>Referendum má být vyhlášeno vždy souběžně s termínem voleb, které se v daném roce konají (v nadcházejícím funkčním období jsou každý rok nějaké volby. Tím ušetří náklady města, čas občanů a zvýší účast.</li>
+        <li>Město musí občany o referendu aktivně a vyváženě informovat. Ke každému referendu ustavíme skupinu se zastoupením zastánců i odpůrců návrhu. S pomocí úředníků budou vyhodnoceny dopady a připraveny informační materiály pro občany.</li>
+   </ul>
